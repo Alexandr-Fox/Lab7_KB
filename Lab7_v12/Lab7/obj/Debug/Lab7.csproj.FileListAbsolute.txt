@@ -1,0 +1,15 @@
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\bin\Debug\Lab7.exe
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\bin\Debug\Lab7.pdb
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.Diagramma.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.FormTable.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.MainForm.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.ScreenSaver.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.exe
+C:\Users\alros\RiderProjects\Lab7_KB\Lab7_v10\Lab7\obj\Debug\Lab7.pdb
